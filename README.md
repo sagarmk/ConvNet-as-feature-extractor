@@ -17,10 +17,13 @@
 
 - Filter visualization
 	- visualize layers of ConvNet
-	![1](Image Source) 
+	![1](https://raw.githubusercontent.com/sagarmk/ConvNet-as-feature-extractor/master/images/1.png) 
 
 - Feature extraction
 	- plotting the output layer activations
 	- dense layer activations instead of forwarding to a classifier can be by themselves used as features on a linear classifier
-	![2](Image Source) 
-	![3](Image Source) 
+	
+	
+	
+	![2](https://raw.githubusercontent.com/sagarmk/ConvNet-as-feature-extractor/master/images/3.png) 
+	![3](https://raw.githubusercontent.com/sagarmk/ConvNet-as-feature-extractor/master/images/2.png) 
